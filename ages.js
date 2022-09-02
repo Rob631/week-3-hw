@@ -155,4 +155,5 @@ function convertToCelsius(celsius){
    celsius = (fahrenheit - 32) * 5 / 9;
    return celsius
 }
+//I created this funciton to convert fahrenheit into clesius. 
 console.log(convertToCelsius(fahrenheit));
